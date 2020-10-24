@@ -320,3 +320,7 @@ border: var(--beige);
     color: #ffffff;
 } 
 
+#lista-carrito{
+    max-height: 20rem;
+    overflow: scroll;
+}
